@@ -7,5 +7,5 @@ Python based radio frequency satellite tracking
 To view data attached as example:
 
 ```
-./rfplot.py -p data/2021-08-04T20_48_35
+python3 src/rfplot.py -p data -P 2021-08-04T20:48:35 -s 50 -l 1800 -C 4171
 ```

@@ -21,7 +21,7 @@ from astropy.time import Time
 from  astropy.visualization import ZScaleInterval
 C = 299792.458 # km/s
 
-from modest import imshow
+from modest.modest import imshow
 
 def main():
     # Default settings
